@@ -1,0 +1,14 @@
+attached the observer
+attached the observer
+I am moving slow
+I am moving fast
+<my name is Chi. My type is a Cat.>
+I am going to sleep
+Hi this is the zooann1, zookeeper is about to feed the animals
+Hi this is the zooann2, zookeeper is about to feed the animals
+<my name is Lin. My type is a Lion.>
+I am eating
+Hi this is the zooann1, zookeeper is about to feed the animals
+Hi this is the zooann2, zookeeper is about to feed the animals
+detached the observer
+detached the observer
