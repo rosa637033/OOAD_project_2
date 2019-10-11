@@ -1,3 +1,3 @@
 # OOAD_project_2
 Teammate: Yun Ting Chen
-Used Python for this project
+I used Pycharm and python3 for this project. To run the code use app.py.
